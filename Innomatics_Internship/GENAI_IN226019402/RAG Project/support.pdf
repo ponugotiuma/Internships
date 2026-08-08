@@ -1,0 +1,17 @@
+AI Resume Screening System – Knowledge Base
+1. Overview
+An AI Resume Screening System helps recruiters evaluate candidates automatically using
+AI-based pipelines.
+2. Key Features
+• Extract skills, tools, and experience • Match candidates with job descriptions • Assign fit score
+(0–100) • Provide explainable results
+3. Workflow
+Resume ® Skill Extraction ® Matching ® Scoring ® Explanation
+4. Technologies Used
+LangChain, FastAPI, Python, LLMs
+5. Benefits
+• Faster hiring process • Reduced manual effort • Improved decision-making
+6. Limitations
+• Depends on input quality • May require tuning for accuracy
+7. Support
+Email: ai-support@example.com Phone: 9000000000
