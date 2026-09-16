@@ -6,5 +6,5 @@
 * Strengthened problem-solving and technical skills through internship activities and practical experience.
 ### 🛠️ Technologies & Skills Learned
 
-* Gained hands-on exposure to **Python, SQL, and Data Analytics** through practical internship activities.
-* Developed skills in **data handling, analysis, problem-solving, and applying technical concepts to real-world tasks**.
+- Developed proficiency in **Python Problem Solving, FastAPI, and Prompt Engineering** for building practical AI applications.
+- Gained hands-on exposure to **LangChain, RAG (Retrieval-Augmented Generation), AI Agents, and LangGraph** for developing agentic AI workflows.
